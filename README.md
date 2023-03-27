@@ -1,1 +1,1 @@
-fix yolo classify model loading error (#9196)
+Add domain checks to CI docs page (#8714)
