@@ -1,1 +1,1 @@
-Rename model_id to model.id (#8447)
+Add OpenVINO Latency vs Throughput modes Docs page (#9001)
