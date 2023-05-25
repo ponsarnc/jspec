@@ -1,1 +1,1 @@
-fix for KeyError: 'epoch' (#48)
+added badges (#45)
