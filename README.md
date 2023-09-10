@@ -1,1 +1,1 @@
-Add CoreML Docs Integrations Page (#8063)
+Add docs guide terminal images (#8819)
