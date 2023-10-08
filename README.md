@@ -1,1 +1,1 @@
-Fix docs links (#7096)
+Remove unused variables (#8511)
