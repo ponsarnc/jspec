@@ -1,1 +1,1 @@
-Add new YOLOv8 OBB model metrics (#7379)
+Fix TypeError in check_cfg() (#9245)
