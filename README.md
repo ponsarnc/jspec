@@ -1,1 +1,1 @@
-ultralytics 8.0.234 VOC exist_ok=True unzip fix (#7295)
+Fix tfjs exports for ARM64 Dockerfile (#8766)
