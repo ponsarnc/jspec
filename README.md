@@ -1,1 +1,1 @@
-Add https://youtu.be/aeAX6vWpfR0 to docs & african-wildlife dataset docs page (#9102)
+Add line counting and circular heatmaps in Ultralytics Solutions (#7113)
