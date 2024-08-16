@@ -1,1 +1,1 @@
-Fix solution functions description + integrations/openvino.md cover image update (#8170)
+Hold failed upload metrics and upload with next upload metrics (#8513)
